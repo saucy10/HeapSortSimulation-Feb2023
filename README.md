@@ -1,2 +1,28 @@
 # HeapSortSimulation-Feb2023
-This C/C++ project, developed in Turbo C++, demonstrates the Heap Sort algorithm and its application in finding the shortest path within a graph. It features a menu-driven interface to explore Heap Sort's working and its optimization role in graph algorithms, showcasing core data structures and algorithmic problem-solving.
+Shortest Path Finder using Heap Sort
+This project presents a console-based application developed in C/C++ using the Turbo C++ environment, focusing on demonstrating the Heap Sort algorithm and its practical application in finding the shortest path within a graph. As an MCA final semester project, it highlights foundational skills in data structures, algorithms, and efficient problem-solving.
+
+# Table of Contents
+About 
+Algorithm
+Working
+Application
+
+# Technologies Used
+Programming Languages: C, C++
+Development Environment: Turbo C++
+
+How to Run
+To compile and execute this project, you will need the Turbo C++ IDE.
+
+Install Turbo C++: Ensure you have the Turbo C++ IDE installed on your system.
+Open Project: Open the project's source files (.cpp files) within the Turbo C++ IDE.
+Compile: Navigate to Compile > Compile (or press Alt + F9).
+Run: Navigate to Run > Run (or press Ctrl + F9).
+
+Contact
+Feel free to connect with me if you have any questions or feedback regarding this project!
+Email: suhasp70228@gmail.com
+
+License
+This project is licensed under the MIT License.
