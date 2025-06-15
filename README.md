@@ -12,7 +12,7 @@ Application
 Programming Languages: C, C++
 Development Environment: Turbo C++
 
-How to Run
+# How to Run
 To compile and execute this project, you will need the Turbo C++ IDE.
 
 Install Turbo C++: Ensure you have the Turbo C++ IDE installed on your system.
@@ -20,9 +20,9 @@ Open Project: Open the project's source files (.cpp files) within the Turbo C++ 
 Compile: Navigate to Compile > Compile (or press Alt + F9).
 Run: Navigate to Run > Run (or press Ctrl + F9).
 
-Contact
+# Contact
 Feel free to connect with me if you have any questions or feedback regarding this project!
 Email: suhasp70228@gmail.com
 
-License
+# License
 This project is licensed under the MIT License.
