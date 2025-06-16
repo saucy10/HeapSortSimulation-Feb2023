@@ -1,6 +1,6 @@
 # HeapSortSimulation-Feb2023
 Shortest Path Finder using Heap Sort
-This project presents a console-based application developed in C/C++ using the Turbo C++ environment, focusing on demonstrating the Heap Sort algorithm and its practical application in finding the shortest path within a graph. As an MCA final semester project, it highlights foundational skills in data structures, algorithms, and efficient problem-solving.
+This project presents a console-based application developed in C/C++ using the Turbo C++ environment, focusing on demonstrating the Heap Sort algorithm and its practical application in finding the shortest path within a graph. As an BCA final semester project, it highlights foundational skills in data structures, algorithms, and efficient problem-solving.
 
 # Table of Contents
 1.About 
